@@ -1,7 +1,7 @@
 // 图片数组
 const images = [
-  'img1.jpg',
-  'img2.jpg'
+  './img1.jpg',
+  './img2.jpg'
 ];
 
 // 获取图片元素
